@@ -1,0 +1,5 @@
+scipy
+pywin32
+cffi
+opencv-python
+pygame
